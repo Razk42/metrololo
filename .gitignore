@@ -1,0 +1,11 @@
+# Virtual environment
+venv/
+# Database
+db.sqlite3
+# Static files
+staticfiles/
+# Media files
+media/
+# Secret keys
+.env
+__pycache__/
